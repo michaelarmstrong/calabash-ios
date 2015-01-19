@@ -16,7 +16,7 @@ this software.'
   s.summary  = 'Calabash is an automated testing technology for Android and iOS native and hybrid applications.'
   s.homepage = 'https://github.com/calabash/calabash-ios'
   s.author   = { 'Michael Armstrong' => 'mich at el dot christmas island tld' }
-  s.source   = { :http => 'https://aws-eu-cache01.rubygems.org/gems/calabash-cucumber-0.12.1.gem',
+  s.source   = { :http => 'https://rubygems.org/downloads/calabash-cucumber-0.12.1.gem',
 		 :type => :tgz }
   s.prepare_command = <<-CMD
 			tar xzf data.tar.gz
